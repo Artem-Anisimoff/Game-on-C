@@ -1,0 +1,4 @@
+﻿  GAME.cpp
+C:\Users\Артём\Desktop\GAME\GAME\GAME.cpp(581,7): warning C4101: rect: неиспользованная локальная переменная
+C:\Users\Артём\Desktop\GAME\GAME\GAME.cpp(780,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  GAME.vcxproj -> C:\Users\Артём\Desktop\GAME\Debug\GAME.exe
